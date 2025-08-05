@@ -1,0 +1,3 @@
+../Driver/Src/gpio.c:12:6:gpioA_init	16	static
+../Driver/Src/gpio.c:40:6:usart_init	16	static
+../Driver/Src/gpio.c:70:6:usart_set_baudrate	40	static

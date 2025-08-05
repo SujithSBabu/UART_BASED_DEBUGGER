@@ -1,0 +1,3 @@
+../Driver/Src/get_register_data.c:11:10:get_MSP_data	16	static,ignoring_inline_asm
+../Driver/Src/get_register_data.c:20:10:get_PSP_data	16	static,ignoring_inline_asm
+../Driver/Src/get_register_data.c:30:10:get_CONTROL_data	16	static,ignoring_inline_asm
